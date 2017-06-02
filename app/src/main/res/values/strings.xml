@@ -9,7 +9,7 @@
     <string-array name="productos">
         <item>Automotor</item>
         <item>Celular</item>
-        <item>Combinado Familiar</item>
+        <item>Combinado</item>
         <item>Notebook</item>
         <item>Vida</item>
     </string-array>
