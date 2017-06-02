@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_Welcome">Welcome Area</string>
+    <string name="title_activity_welcome">NFC</string>
+    <string name="tramite">Tramite</string>
+    <string name="producto">Producto</string>
+    <string-array name="productos">
+        <item>Automotor</item>
+        <item>Celular</item>
+        <item>Combinado Familiar</item>
+        <item>Notebook</item>
+        <item>Vida</item>
+    </string-array>
+    <string-array name="tramites">
+        <item>Consulta</item>
+        <item>Inspeccion</item>
+        <item>Siniestro</item>
+        <item>Venta</item>
+    </string-array>
+</resources>
